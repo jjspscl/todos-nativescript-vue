@@ -17,7 +17,7 @@
   "dependencies": {
     "@nstudio/nativescript-checkbox": "^1.0.0",
     "@vue/devtools": "^5.3.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "nativescript-checkbox": "^3.0.3",
     "nativescript-socketio": "^3.3.1",
     "nativescript-toasty": "^3.0.0-alpha.2",
